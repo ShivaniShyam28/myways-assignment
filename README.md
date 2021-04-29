@@ -21,8 +21,8 @@ To setup the database locally:
 
 ## ER Diagram:
 The ER diagram for the database is as follows:
-![ER Diagram](assets/ER.png)
+![ER Diagram](assets/UML.jpg)
 
 ## UML Diagram:
 The UML diagram for the database is as follows:
-![UML Diagram](assets/UML.jpg)
+![UML Diagram](assets/ER.png)
