@@ -1,4 +1,4 @@
-# Myways python Databse project
+# Myways python Database project
 This database project tries to implement a Coronavirus vital information system. This is built using `python 3.6.8` and using **PostgreSQL**.
 
 ## Prerequisites:
